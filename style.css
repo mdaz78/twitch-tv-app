@@ -44,3 +44,14 @@ table {
 td, th {
   width : 33%;
 }
+
+footer {
+    font-family: 'Monaco', sans-serif;
+    margin-top: 2%;
+    font-size: 0.8em;
+    margin-bottom: 1%;
+}
+
+footer a, footer a:hover {
+    color: black;
+}
