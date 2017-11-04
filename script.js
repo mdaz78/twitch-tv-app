@@ -2,7 +2,7 @@ let channels = ["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck"
 let result = [];
 function getData() {
     let fetchAPI = (type,channel) => {
-        let url = `http://wind-bow.glitch.me/twitch-api/${type}/${channel}`;
+        let url = `https://wind-bow.glitch.me/twitch-api/${type}/${channel}`;
         return fetch(url).then(function(response){
             return response.json();
         }).then(function(data){
