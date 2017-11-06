@@ -1,4 +1,4 @@
-## Random Quote Machine
+## Twitch Tv App
 An Implementation of the project from [FreeCodeCamp](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
 
 ### Screenshot
